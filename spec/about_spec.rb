@@ -13,5 +13,3 @@ describe "about page" do
   end
 
 end
-
-
